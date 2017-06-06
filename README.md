@@ -1,2 +1,2 @@
-# omyono.github.io
-github host untuk pewe 
+# jualangsung.github.io
+github host untuk jual langsung 
